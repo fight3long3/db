@@ -1,0 +1,19 @@
+{
+  "name": "fight/db",
+  "authors": [
+    {
+      "name": "fight3long3",
+      "email": "fight3long3@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1.0",
+    "ext-pdo": "*",
+    "ext-ctype": "*"
+  }
+}
