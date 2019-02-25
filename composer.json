@@ -1,5 +1,6 @@
 {
   "name": "fight/db",
+  "keywords": ["fight", "db"],
   "authors": [
     {
       "name": "fight3long3",
@@ -8,7 +9,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "src\\": "src/"
+      "fight\\": "src/"
     }
   },
   "require": {
