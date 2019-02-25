@@ -9,11 +9,11 @@
   ],
   "autoload": {
     "psr-4": {
-      "fight\\": "src/"
+      "fight\\db\\": "src/"
     }
   },
   "require": {
-    "php": ">=7.1.0",
+    "php": ">=7.2.0",
     "ext-pdo": "*",
     "ext-ctype": "*"
   }
