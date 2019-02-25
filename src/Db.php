@@ -1,9 +1,9 @@
 <?php
 
-namespace fight;
+namespace fight\db;
 
 
-use fight\drive\PDO;
+use fight\db\drive\PDO;
 
 class Db
 {

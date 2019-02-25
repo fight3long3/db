@@ -1,6 +1,6 @@
 <?php
 
-namespace fight\drive;
+namespace fight\db\drive;
 
 
 class PDO
